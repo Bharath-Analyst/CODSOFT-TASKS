@@ -20,6 +20,6 @@ This project seeks to create a model capable of categorizing iris flowers into d
 
 Datasets: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
-Code: 
+Code: https://github.com/Bharath-Analyst/CODSOFT-TASKS/blob/main/Codsoft-Task-3-Iris_Classification_using_ML.ipynb
 
 
